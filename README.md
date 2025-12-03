@@ -28,7 +28,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p>:fire: My Stats :</p>
+ <p>:fire: My Stats :</p>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolove-olexii&layout=compact&theme=tokyonight&langs_count=8"/> -->
+<!-- <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sokolove-olexii&theme=tokyo-night" />
+
 
 <!--
 **Sokolove-Olexii/Sokolove-Olexii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
