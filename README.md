@@ -27,6 +27,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<div>
+  <h3>Main projects:</h3>
+  <ul>
+    <li><a href="https://sokolove-olexii.github.io/weather-project/">Weather-project</a></li>
+    <li><a href="https://sokolove-olexii.github.io/Chocolate/">Chocolate</a></li>
+    <li><a href="https://sokolove-olexii.github.io/CountryEvRework/">Country-festivals</a></li>
+    <li><a href="https://sokolove-olexii.github.io/JsFirstProject/">FirstProject - REWORK</a></li>
+  </ul>
+</div>
 
  <p>:fire: My Stats :</p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolove-olexii&layout=compact&theme=tokyonight&langs_count=8"/> -->
