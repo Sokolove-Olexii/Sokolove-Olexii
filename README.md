@@ -14,7 +14,7 @@
 </div>
 </div>
 <p>:man_technologist: About Me :</p>
-<p>My name is Olexii and i'm 17 years old</p>
+<p>My name is Olexii and i'm 18 years old</p>
 <p>I am Front-end developer from Ukraine</p>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
