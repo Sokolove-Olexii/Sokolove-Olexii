@@ -30,9 +30,12 @@
 <div>
   <h3>Main projects:</h3>
   <ul>
+    <li><a href="https://sokolove-olexii.github.io/invest-iq/">INVESTIQ</a></li>
+    <li><a href="https://sokolove-olexii.github.io/event-booster/">Event-booster</a></li>
     <li><a href="https://sokolove-olexii.github.io/weather-project/">Weather-project</a></li>
     <li><a href="https://sokolove-olexii.github.io/Chocolate/">Chocolate</a></li>
     <li><a href="https://sokolove-olexii.github.io/CountryEvRework/">Country-festivals</a></li>
+    
     <!-- <li><a href="https://sokolove-olexii.github.io/JsFirstProject/">FirstProject - REWORK</a></li> -->
   </ul>
 </div>
