@@ -34,7 +34,6 @@
     <li><a href="https://sokolove-olexii.github.io/event-booster/">Event-booster</a></li>
     <li><a href="https://sokolove-olexii.github.io/weather-project/">Weather-project</a></li>
     <li><a href="https://sokolove-olexii.github.io/Chocolate/">Chocolate</a></li>
-    <li><a href="https://sokolove-olexii.github.io/CountryEvRework/">Country-festivals</a></li>
   </ul>
 </div>
 
